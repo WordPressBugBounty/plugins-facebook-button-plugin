@@ -3,7 +3,7 @@ Contributors: bestwebsoft
 Donate link: https://bestwebsoft.com/donate/
 Tags: facebook buttons, share, like, add share button, social buttons, facebook, facebook button icon, follow, follow button, like button, share button, facebook plugin
 Requires at least: 5.6
-Tested up to: 6.4
+Tested up to: 6.7
 Stable tag: 2.74
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
