@@ -1,10 +1,10 @@
 ﻿=== BestWebSoft's Like & Share - Posts, Pages and Widget Social Extension plugin for WordPress ===
 Contributors: bestwebsoft
 Donate link: https://bestwebsoft.com/donate/
-Tags: facebook buttons, share, like, add share button, social buttons, facebook, facebook button icon, follow, follow button, like button, share button, facebook plugin
+Tags: facebook buttons, share, like, add share button, social buttons
 Requires at least: 5.6
-Tested up to: 6.7
-Stable tag: 2.76
+Tested up to: 6.8
+Stable tag: 2.77
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -182,6 +182,10 @@ Please make sure that the problem hasn't been discussed yet on our forum (<https
 3. Plugin settings page.
 
 == Changelog ==
+
+= V2.77 - 06.05.2025 =
+* Update : All functionality was updated for WordPress 6.8.
+* Bugfix : Fatal error fixed.
 
 = V2.76 - 03.03.2025 =
 * Update : All functionality was updated for WordPress 6.7.
@@ -494,6 +498,10 @@ Please make sure that the problem hasn't been discussed yet on our forum (<https
 * Ability to install BestWebSoft Like & Share icon with a link to the account page, including settings adjustment functionality via WordPress admin panel.
 
 == Upgrade Notice ==
+
+= V2.76 =
+* Bugs fixed.
+* The compatibility with new WordPress version updated.
 
 = V2.76 =
 * Bugs fixed.
