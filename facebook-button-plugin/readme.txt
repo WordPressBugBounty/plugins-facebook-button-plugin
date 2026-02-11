@@ -1,5 +1,5 @@
 ﻿=== BestWebSoft's Like & Share - Posts, Pages and Widget Social Extension plugin for WordPress ===
-Contributors: bestwebsoft
+Contributors: bestweblayout
 Donate link: https://bestwebsoft.com/donate/
 Tags: facebook buttons, share, like, add share button, social buttons
 Requires at least: 5.6
